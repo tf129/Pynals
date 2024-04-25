@@ -31,9 +31,11 @@ You and your team spawn in one of the two sides of the map. You choose one of 3 
 You must stay in the flag area 10 seconds to won one round. The first who gain 5 round win.
 
 ## 🎮 Use cases
-### Admin
 ### Player
-[README_API](https://github.com/MayeulPx/PYnals/blob/main/README_API.md)
+- choose his name
+- move in x or y in 1 move with agent.move(dX,dY)
+- turn in four directions (N, S, W, E) with agent.lookAt(dir)
+- reload with reload()
 ## ✅ pre-requisties
 - Python 3.12 or higher
 - An arena in Pytactx
