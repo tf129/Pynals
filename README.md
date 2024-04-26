@@ -47,7 +47,7 @@ Installation of necesary packages automatically occur when an agent is created
 ## 🧑‍💻 Author
 Pytactx by Julien Arné, Under CC BY-NC 4.0 licence 👉 https://creativecommons.org/licenses/by-nc/4.0/deed.en
 
-Map designed by Mathys Tola
+Map designed by Mathys Tola, go check his other arts [@default_asr](https://www.instagram.com/default_asr/)
 
 Inspirated by Swevvenn
 
