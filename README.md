@@ -4,6 +4,7 @@
 ## 🎯 Description
 The Pynals is a game developed in Python with the library [PytactX by Jusdeliens](https://jusdeliens.com/).
 > 2 teams are fighting agaisnt each other to stay in the flag zone without any ennemy in with them.
+> For more informations, got to [J-31](https://jusdeliens.com/2024/04/22/j-31-avant-le-d-day/)
 ## 🎲 Rules
 ### Components of the arena
 
