@@ -17,25 +17,32 @@ There are many elements in the map:
 - 🟡: spawn area
 - 🟩: jungle
 
-
 ### Players 
 There are 3 different profiles.
 
 |Statistics|Light|Medium|Heavy|
 |-----|-----|-----|-----|
 |Life points|30|60|100|
-|Cooldown between 2 moves|100|250|500|
-|Cooldown between 2 fires|200|400|800|
+|Couldown between 2 moves|100|250|500|
+|Couldown between 2 fires|200|400|800|
 |Hit fire|15|25|30|
 
-
-
+### How to win
+To win, you and your team must have 200 points.
 
 ### How to play
-Your agent and your team agents spawn in one of the two sides of the map. You choose one of the 3 available profiles and try to stay in the flag area.
+You and your team spawn in one of the two areas. Yoou can choose the profiles as you want (3 heavies, 2 lights and 1 medium, one of each...).
+You have two ways to have points:
+- Kill an enemy robot and you receive 5 points
+- Stay 20 seconds in the target area and you have 100 points
+- If you are killed, you respawn in you area after 5 seconds.
+- The jungle is a specific area because you are slower than on the paths.
 
-### How to win
-You must stay in the flag area for 10 seconds in order to won a round. The first team to reach 5 round wins win.
+### Rules
+- Only one agent per computer
+- No network attack (DDOS)
+- You can't use AI to write your code
+- You can only use the pytactx's API but without certains functions like shockwave
 
 ## 🎮 Use cases
 ### Player
