@@ -8,8 +8,13 @@ The Pynals is a game developed in Python with the library [PytactX by Jusdeliens
 ## 🎲 Rules
 ### Components of the arena
 
-![Arena schema](Ressources/Images/map.jpg)
+![Arena schema](map_avec_zone.jpg)
 _Map size: 30x30_
+There is many elements in the map:
+- 🔴: target area
+- 🔵: spawn area
+- 🟡: spawn area
+- 🟩: jungle
 
 
 ### Players 
