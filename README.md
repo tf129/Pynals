@@ -64,10 +64,7 @@ Map designed by Mathys Tola, go check his other arts [@default_asr](https://www.
 
 Inspirated by Swevvenn
 
-Developped by :
-- Maxaug61
-- Malagagne
-- Swevvenn
+Created & Tested by PynalsCo.
 
 ## ⚖️ License
 
